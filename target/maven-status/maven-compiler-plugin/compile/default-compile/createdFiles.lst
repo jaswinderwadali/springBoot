@@ -3,3 +3,4 @@ interview/artifacts/UserRepository.class
 interview/artifacts/RestService.class
 com/interview/model/BaseResponse.class
 interview/artifacts/Application.class
+interview/artifacts/SimpleCORSFilter.class
